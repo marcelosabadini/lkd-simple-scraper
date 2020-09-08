@@ -1,0 +1,2 @@
+LKD_USERNAME = ''
+LKD_PASS = ''
