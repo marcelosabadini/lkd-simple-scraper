@@ -1,2 +1,4 @@
 chromedriver.exe
 conf.py
+debug.log
+_pycache_/*
